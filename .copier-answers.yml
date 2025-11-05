@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+_commit: 0c47227
+_src_path: git@github.com:cmacphillamy/tbioinfo-copier-python.git
+author_email: mac605@csiro.au
+author_name: Callum MacPhillamy
+description: An example repository
+distribution_name: tbg-python-copier-template-example
+docs_type: sphinx
+git_platform: github.com
+github_org: cmacphillamy
+github_user: cmacphillamy
+package_name: tbg_python_copier_template_example
+repo_name: tbg-python-copier-template-example
+strict_typing: true
+type_checker: pyright
