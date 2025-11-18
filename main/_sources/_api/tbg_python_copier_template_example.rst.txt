@@ -1,0 +1,13 @@
+﻿``tbg_python_copier_template_example``
+======================================
+
+.. automodule:: tbg_python_copier_template_example
+    :members:
+
+    
+    
+    
+
+    
+    
+    
